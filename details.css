@@ -1,0 +1,100 @@
+*{
+
+   font-family: "Zurich Extended", sans-serif; 
+
+}
+.logo {
+
+   text-align: center !important;
+   margin: 0 auto !important;
+   display: inherit !important;
+   margin-left: 20px;
+
+}
+#logo{
+
+   width: 140px;
+   margin-top: 5px;
+
+}
+#frstnav{
+
+   background-color: #E8C49F !important;
+   height: 45px;
+   padding-top: 10px; 
+
+}
+#frstnav p {
+
+   text-align: center !important;
+
+}
+#scndnav{
+
+   padding-left: 20px;
+   padding-right: 20px;
+
+}
+#scndnav a {
+
+   font-size: 20px;
+   margin: 10px;
+
+}
+#scndnav a i{
+
+   color: #F19B6C;
+
+}
+#cartPayment{
+
+   background-color: #F19B6C !important;
+
+}
+footer{
+
+   margin-top: 50px;
+
+}
+.logo{
+
+   width: 150px;
+
+ }
+ #socialMedia a i{
+
+   color: #F19B6C;
+
+ }
+ #getConnected span{
+
+   color: black;
+
+ }
+ footer h6{
+
+   color: black;
+   
+ }
+ footer{
+
+   background-color: white !important;
+
+ } 
+ footer a{
+
+   text-decoration: none !important;
+
+ }
+ #socialMedia a i{
+
+   color: #F19B6C;
+
+ }
+ img.img {
+
+   width: 30rem;
+   height: 40rem;
+
+}
+ 
